@@ -1,1 +1,2 @@
-Walability ration of streets to sidewalk.
+Walability ratio of streets to sidewalk.
+
