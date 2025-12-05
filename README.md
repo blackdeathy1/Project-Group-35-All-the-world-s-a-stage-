@@ -10,6 +10,6 @@ Nathan Smith - NJS200@pitt.edu - A Community Profile of Pittsburgh Neighborhoods
 
 Links: 
 
-AF - https://data.wprdc.org/dataset/toxic-release-inventory
-AY - https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio
-NS - https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974 (Used the 1972 data)
+AF - https://data.wprdc.org/dataset/toxic-release-inventory  
+AY - https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio  
+NS - https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974 (Used the 1972 data)  
