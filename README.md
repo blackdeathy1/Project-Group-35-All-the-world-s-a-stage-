@@ -13,3 +13,12 @@ Links:
 AF - https://data.wprdc.org/dataset/toxic-release-inventory  
 AY - https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio  
 NS - https://data.wprdc.org/dataset/a-community-profile-of-pittsburgh-neighborhoods-1974 (Used the 1972 data)  
+
+Canvas Group Number: 35 / Project Group 35 / (Check Repo's name)
+
+Guide to Individual Notebooks: 
+
+April Froelich - toxicChemicalReleases/toxicChemicalReleases.ipynb  
+Aviraj Yadav  - aviraj-Walkability/Aviraj_Walkability.ipynb  
+Nathan Smith - Major Crimes in Pittsburgh Neighbourhoods/MajorCrime (1).ipynb  
+Overall Conclusions (Written by Nathan Smith, but everyone contributed to conclusion through their work and inputs. Even if the commits don't show it) - Overall Conclusion.ipynb  
