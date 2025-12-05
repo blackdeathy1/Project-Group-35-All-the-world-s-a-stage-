@@ -5,8 +5,8 @@ This repository contains our team’s data driven analysis, code, and notebooks 
 
 Current Members:  
 April Froelich - AMF403@pitt.edu -  Allegheny County Toxics Release Inventory  
-Aviraj Yadav  - AVY9@pitt.edu - Sidewalk to Street "Walkability" Ratio
-Nathan Smith - NJS200@pitt.edu - A Community Profile of Pittsburgh Neighborhoods, 1972 (Major Crime Arrests and etc)
+Aviraj Yadav  - AVY9@pitt.edu - Sidewalk to Street "Walkability" Ratio  
+Nathan Smith - NJS200@pitt.edu - A Community Profile of Pittsburgh Neighborhoods, 1972 (Major Crime Arrests and etc)  
 
 Links: 
 
